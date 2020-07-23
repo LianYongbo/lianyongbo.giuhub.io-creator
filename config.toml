@@ -1,4 +1,4 @@
-baseURL = "https://lianyongbo.github.io/"
+baseURL = "lianyongbo.github.io"
 languageCode = "zh-Hans"
 title = "L1anyX的博客"
 theme = "ananke"
